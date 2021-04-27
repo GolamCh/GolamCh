@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Welcome to my profile! I am currently undergoing my SDET consultant training at Sparta Global.
+
+## More to come...
+
 <!--
 **GolamCh/GolamCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
