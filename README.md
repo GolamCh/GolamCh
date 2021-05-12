@@ -11,13 +11,13 @@ I started self-teaching programming in the summer of 2020 soon after my graduati
 ![java badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![intellij_badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=fff)
 ![selenium badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
-![selenium badge](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=fff)
+![maven badge](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=fff)
 
 ![git badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![github badge](https://img.shields.io/badge/-GitHub-9400D3?style=for-the-badge&logo=github&logoColor=fff)
 ![mysql badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-![python badge](https://img.shields.io/badge/-Python%203-FF0000?style=for-the-badge&logo=python&logoColor=fff)
+![python badge](https://img.shields.io/badge/-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![jupyter badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
 
 Some other note-worthy skills and tool proficiencies I have under my belt:
@@ -33,4 +33,4 @@ Some other note-worthy skills and tool proficiencies I have under my belt:
 
 Have a look at some of my project! Feel free to let me know 
 
-
+📧 Feel free to get in touch with me: golamch@outlook.com / gchoudhury@spartaglobal.com
