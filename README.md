@@ -1,20 +1,36 @@
-### Hi there 👋
+### Hi, I'm Golam Choudhury
+### Welcome To My Profile! 😄
 
-### Welcome to my profile! I am currently undergoing my SDET consultant training at Sparta Global.
+### About me
+I graduated from City, University of London in 2020 with a degree in Aeronautical Engineering and I am currently undergoing Java SDET Consultant training at Sparta Global. 
+Currently, my next goal is to land a role within the industry as an SDET Consultant and put my skills to use. 
 
-### README under construction... 🚧
+I started self-teaching programming in the summer of 2020 soon after my graduation and have developed a whole host of skills since. Please see my "Skills" section to know more about some of the things I've learnt during this time!
 
-<!--
-**GolamCh/GolamCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills (More to come soon...)
+![java badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![intellij_badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=fff)
+![selenium badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
+![selenium badge](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=fff)
 
-Here are some ideas to get you started:
+![git badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![github badge](https://img.shields.io/badge/-GitHub-9400D3?style=for-the-badge&logo=github&logoColor=fff)
+![mysql badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![python badge](https://img.shields.io/badge/-Python%203-FF0000?style=for-the-badge&logo=python&logoColor=fff)
+![jupyter badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
+
+Some other note-worthy skills and tool proficiencies I have under my belt:
+- J-Unit 5
+- Hamcrest
+- Mockito
+- log4j
+
+### Current/Recent Activities
+- I have recently achieved ISTQB Tester Certification.
+- Refactoring previous projects and implementing newly learned techniques wihtin them.
+
+
+Have a look at some of my project! Feel free to let me know 
+
+
