@@ -18,6 +18,7 @@ I started self-teaching programming in the summer of 2020 soon after my graduati
 ![mysql badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ![python badge](https://img.shields.io/badge/-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![spyder badge](https://img.shields.io/badge/-Spyder%20IDE-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=fff)
 ![jupyter badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
 
 Some other note-worthy skills and tool proficiencies I have under my belt:
