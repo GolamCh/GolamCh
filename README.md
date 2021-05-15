@@ -32,6 +32,6 @@ Some other note-worthy skills and tool proficiencies:
 - Refactoring previous projects and implementing newly learned techniques wihtin them.
 
 
-Have a look at some of my projects! Feel free to let me know 
+Have a look at some of my projects! 
 
 📧 Feel free to get in touch with me: golamch@outlook.com / gchoudhury@spartaglobal.com
