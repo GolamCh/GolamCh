@@ -29,7 +29,7 @@ Some other note-worthy skills and tool proficiencies:
 
 ### Current/Recent Activities
 - I have recently achieved ISTQB Tester Certification.
-- Refactoring previous projects and implementing newly learned techniques wihtin them.
+- Working on final project at Sparta: building an automation testing framework for a web application.
 
 
 Have a look at some of my projects! 
