@@ -28,8 +28,7 @@ Some other note-worthy skills/tool proficiencies:
 - log4j
 
 ### Current/Recent Activities
-- I have recently achieved ISTQB Tester Certification.
-- Working on final project at Sparta: building an automation testing framework for a web application.
+- This week, I have started the 2-week DevOps bootcamp at Sparta Global to add to some of my skills. 
 
 
 Have a look at some of my projects! 
