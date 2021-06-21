@@ -29,8 +29,8 @@ Some other note-worthy skills/tool proficiencies:
 - log4j
 
 ### Current/Recent Activities
-- I am in my second week of the 2-weeks DevOps bootcamp at Sparta Global, upskilling myself 
-- I am creating repositories solidyfying important SDET comcepts, my current efforts are going towards documenting the important sub-topics of Selenium. This will provide the background for a fully-functional Web GUI testing framework using Selenium. 
+- With training concluded, I am currently solidyfying fundemental concepts learned over the past few months by building projects. 
+- I have a project in progress which is to build an automation testing framework using selenium for a live website. 
 
 [![Golam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GolamCh&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
