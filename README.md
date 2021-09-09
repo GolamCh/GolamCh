@@ -21,6 +21,7 @@ I started self-teaching programming in the summer of 2020 soon after my graduati
 ![python badge](https://img.shields.io/badge/-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![spyder badge](https://img.shields.io/badge/-Spyder%20IDE-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=fff)
 ![jupyter badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
+![pycharm badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff)
 
 Some other note-worthy skills/tool proficiencies:
 - Hamcrest
