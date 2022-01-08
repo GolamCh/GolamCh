@@ -29,8 +29,7 @@ Some other note-worthy skills/tool proficiencies:
 - log4j
 
 ### Current/Recent Activities
-- With training concluded, I am currently solidyfying fundemental concepts learned over the past few months by building projects. 
-- I have a project in progress which is to build an automation testing framework using selenium for a live website. 
+- With training concluded, I am currently on client-side as a Junior Java SDET consultant
 
 [![Golam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GolamCh&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
