@@ -2,7 +2,7 @@
 ### Welcome To My Profile! 😄
 
 ### About me
-I graduated from City, University of London in 2020 with a degree in Aeronautical Engineering and I have recently completed Java SDET Consultant training at Sparta Global. Currently, I am working with my first client as a Junior Java SDET consultant
+I graduated from City, University of London in 2020 with a degree in Aeronautical Engineering and I have recently completed Java SDET Consultant training at Sparta Global. Currently, I am now working with my second client as a Junior Java SDET consultant. 
 
 I started self-teaching programming in the summer of 2020 soon after my graduation and have developed a whole host of skills since. Please see my "Skills" section below to know more about some of the things I've learnt during this time!
 
